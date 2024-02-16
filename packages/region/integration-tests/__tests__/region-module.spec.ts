@@ -127,7 +127,7 @@ describe("Region Module Service", () => {
         currency_code: "USD",
         countries: ["neverland"],
       })
-    ).rejects.toThrowError("Countries with codes neverland does not exist")
+    ).rejects.toThrowError('Countries with codes: "neverland" do not exist')
   })
 
   it("should throw when country is already assigned to a region", async () => {
@@ -144,7 +144,7 @@ describe("Region Module Service", () => {
         countries: ["us"],
       })
     ).rejects.toThrowError(
-      "Country with code us is already assigned to a region"
+      'Countries with codes: "us" are already assigned to a region'
     )
   })
 
@@ -163,7 +163,7 @@ describe("Region Module Service", () => {
         },
       ])
     ).rejects.toThrowError(
-      "Country with code us is already assigned to a region"
+      'Countries with codes: "us" are already assigned to a region'
     )
   })
 
@@ -173,6 +173,6 @@ describe("Region Module Service", () => {
         name: "Europe",
         currency_code: "DOGECOIN",
       })
-    ).rejects.toThrowError("Currency with code: DOGECOIN was not found")
+    ).rejects.toThrowError('Currencies with codes: "dogecoin" were not found')
   })
 })
