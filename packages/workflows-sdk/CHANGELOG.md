@@ -1,5 +1,15 @@
 # @medusajs/workflows-sdk
 
+## 0.1.4
+
+### Patch Changes
+
+- [#6330](https://github.com/medusajs/medusa/pull/6330) [`0c2a46075`](https://github.com/medusajs/medusa/commit/0c2a460751644021056d0f99d9b1fffe509fb7ab) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Workflow engine API
+
+- Updated dependencies [[`586df9da2`](https://github.com/medusajs/medusa/commit/586df9da250e492442769f5bac2f8b3de1d46f05), [`a86c87fe1`](https://github.com/medusajs/medusa/commit/a86c87fe1442afce9285e39255914e01012b4449), [`339a946f3`](https://github.com/medusajs/medusa/commit/339a946f389033c21e05338f9dbf07d88e140533), [`6500f18b9`](https://github.com/medusajs/medusa/commit/6500f18b9b80c5c9c473489e7e740d55dca74303), [`a6a4b3f01`](https://github.com/medusajs/medusa/commit/a6a4b3f01a6d2bd97b1580c59134279a1b033a5d), [`24fb102a5`](https://github.com/medusajs/medusa/commit/24fb102a564b1253d1f8b039bb1e435cc5312fbb), [`e85463b2a`](https://github.com/medusajs/medusa/commit/e85463b2a717751de2e21c39a4c745449b31affe)]:
+  - @medusajs/modules-sdk@1.12.9
+  - @medusajs/utils@1.11.7
+
 ## 0.1.3
 
 ### Patch Changes

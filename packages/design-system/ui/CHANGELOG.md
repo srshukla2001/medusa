@@ -1,5 +1,13 @@
 # @medusajs/ui
 
+## 2.4.2
+
+### Patch Changes
+
+- [#6347](https://github.com/medusajs/medusa/pull/6347) [`869dc751a`](https://github.com/medusajs/medusa/commit/869dc751a041abc70b2eb9acb36e147d7fd4fd62) Thanks [@github-actions](https://github.com/apps/github-actions)! - fix(ui): explicitly specify props type
+
+- [#6380](https://github.com/medusajs/medusa/pull/6380) [`d37ff8024`](https://github.com/medusajs/medusa/commit/d37ff8024d8affbe84db3c0b6d79cd41016bfac4) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(medusa,ui): Fixes list query params for the following endpoints: "/admin/customers", "/admin/customer-groups", "/admin/gift-cards", and "/admin/collections".
+
 ## 2.4.1
 
 ### Patch Changes

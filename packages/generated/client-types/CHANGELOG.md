@@ -1,5 +1,11 @@
 # @medusajs/client-types
 
+## 0.2.10
+
+### Patch Changes
+
+- [#6380](https://github.com/medusajs/medusa/pull/6380) [`d37ff8024`](https://github.com/medusajs/medusa/commit/d37ff8024d8affbe84db3c0b6d79cd41016bfac4) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(medusa,ui): Fixes list query params for the following endpoints: "/admin/customers", "/admin/customer-groups", "/admin/gift-cards", and "/admin/collections".
+
 ## 0.2.9
 
 ### Patch Changes

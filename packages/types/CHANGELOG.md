@@ -1,5 +1,23 @@
 # @medusajs/types
 
+## 1.11.14
+
+### Patch Changes
+
+- [#6329](https://github.com/medusajs/medusa/pull/6329) [`1fd0457c1`](https://github.com/medusajs/medusa/commit/1fd0457c153b2ef7657c052878d8e5364e1b324a) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(fulfillment): Init dtos work and module service interface
+
+- [#6399](https://github.com/medusajs/medusa/pull/6399) [`339a946f3`](https://github.com/medusajs/medusa/commit/339a946f389033c21e05338f9dbf07d88e140533) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Initial Order module implementation
+
+- [#6381](https://github.com/medusajs/medusa/pull/6381) [`fafde4f54`](https://github.com/medusajs/medusa/commit/fafde4f54d3ef75a7d382e6cbf94e38b3deae99b) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(fulfillment): Module service implementation first iteration
+
+- [#6274](https://github.com/medusajs/medusa/pull/6274) [`1ed5f918c`](https://github.com/medusajs/medusa/commit/1ed5f918c31794a70aca4a4e4cd83cf456593baa) Thanks [@olivermrbl](https://github.com/olivermrbl)! - feat(cart): `POST /store/carts/:id`
+
+- [#6308](https://github.com/medusajs/medusa/pull/6308) [`a6a4b3f01`](https://github.com/medusajs/medusa/commit/a6a4b3f01a6d2bd97b1580c59134279a1b033a5d) Thanks [@fPolic](https://github.com/fPolic)! - feat(types, utils): payment module - provider service
+
+- [#6327](https://github.com/medusajs/medusa/pull/6327) [`4d51f095b`](https://github.com/medusajs/medusa/commit/4d51f095b3f98f468cefb760512563f7b77bb9cf) Thanks [@pKorsholm](https://github.com/pKorsholm)! - feat(core-flows, types, utils, medusa): add user endpoints to api-v2
+
+- [#6392](https://github.com/medusajs/medusa/pull/6392) [`24fb102a5`](https://github.com/medusajs/medusa/commit/24fb102a564b1253d1f8b039bb1e435cc5312fbb) Thanks [@olivermrbl](https://github.com/olivermrbl)! - feat: CartRegion link, definition + workflow
+
 ## 1.11.13
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # @medusajs/oas-cli
 
+## 0.3.1
+
+### Patch Changes
+
+- [#6338](https://github.com/medusajs/medusa/pull/6338) [`374a3f4da`](https://github.com/medusajs/medusa/commit/374a3f4dab7bf893ba3c579fa7f9c346fa30ad64) Thanks [@shahednasser](https://github.com/shahednasser)! - feat(@medusajs/medusa-oas-cli): added v2 flag
+  feat(@medusajs/oas-github-ci): added v2 flag
+- Updated dependencies [[`1fd0457c1`](https://github.com/medusajs/medusa/commit/1fd0457c153b2ef7657c052878d8e5364e1b324a), [`0c2a46075`](https://github.com/medusajs/medusa/commit/0c2a460751644021056d0f99d9b1fffe509fb7ab), [`1ba35b02d`](https://github.com/medusajs/medusa/commit/1ba35b02dd52eeca9f3e1bee073c5e7a17edbc33), [`586df9da2`](https://github.com/medusajs/medusa/commit/586df9da250e492442769f5bac2f8b3de1d46f05), [`a86c87fe1`](https://github.com/medusajs/medusa/commit/a86c87fe1442afce9285e39255914e01012b4449), [`339a946f3`](https://github.com/medusajs/medusa/commit/339a946f389033c21e05338f9dbf07d88e140533), [`fafde4f54`](https://github.com/medusajs/medusa/commit/fafde4f54d3ef75a7d382e6cbf94e38b3deae99b), [`d37ff8024`](https://github.com/medusajs/medusa/commit/d37ff8024d8affbe84db3c0b6d79cd41016bfac4), [`1ed5f918c`](https://github.com/medusajs/medusa/commit/1ed5f918c31794a70aca4a4e4cd83cf456593baa), [`6500f18b9`](https://github.com/medusajs/medusa/commit/6500f18b9b80c5c9c473489e7e740d55dca74303), [`a6a4b3f01`](https://github.com/medusajs/medusa/commit/a6a4b3f01a6d2bd97b1580c59134279a1b033a5d), [`4d51f095b`](https://github.com/medusajs/medusa/commit/4d51f095b3f98f468cefb760512563f7b77bb9cf), [`24fb102a5`](https://github.com/medusajs/medusa/commit/24fb102a564b1253d1f8b039bb1e435cc5312fbb), [`e85463b2a`](https://github.com/medusajs/medusa/commit/e85463b2a717751de2e21c39a4c745449b31affe)]:
+  - @medusajs/types@1.11.14
+  - @medusajs/medusa@1.20.3
+  - @medusajs/utils@1.11.7
+
 ## 0.3.0
 
 ### Minor Changes
